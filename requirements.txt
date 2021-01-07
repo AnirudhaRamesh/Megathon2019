@@ -19,7 +19,7 @@ idna==2.8
 importlib-metadata==0.23
 jmespath==0.9.4
 lexrank==0.1.0
-lxml==4.4.1
+lxml==4.6.2
 more-itertools==7.2.0
 murmurhash==1.0.2
 networkx==2.3
